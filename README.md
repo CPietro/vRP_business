@@ -1,7 +1,7 @@
 # vRP Business
 
 ## Description
-  With this script you can set up businesses which will be owned by players. You can buy a company, hire people, fire them and even sell the company. Since this script has [vRP_companyaccs]() as a dependency, each business will also have a bank account to store their money in, and it'll also grow over time thanks to interest rates (which can be set upon your liking!).\
+  With this script you can set up businesses which will be owned by players. You can buy a company, hire people, fire them and even sell the company. Since this script has [vRP_companyaccs](https://github.com/CPietro/vRP_companyaccs) as a dependency, each business will also have a bank account to store their money in, and it'll also grow over time thanks to interest rates (which can be set upon your liking!).\
   Each company has their indipendent permission, so you can create missions or menus to do stuff for them. For example a dealership where only employees can buy cars, a gun store or a bank.
 
 ## Pictures
@@ -16,10 +16,10 @@
 
 ## Dependencies
  #### Mandatory
- * [vRP_cards]() - Cards for players to buy stuff with them;
- * [vRP_companyaccs]() - Bank accounts for [vRP_business](#vrp-business);
+ * [vRP_cards](https://github.com/CPietro/vRP_cards) - Cards for players to buy stuff with them;
+ * [vRP_companyaccs](https://github.com/CPietro/vRP_companyaccs) - Bank accounts for [vRP_business](#vrp-business);
  * [vRP_items](https://github.com/CPietro/vRP_items) - Custom items to do stuff, such as personalized licenses, debit cards...;
- * [vRP_job_display]() - Modified version of the standard vrp_job_display script;
+ * [vRP_job_display](https://github.com/CPietro/vRP_job_display) - Modified version of the standard vrp_job_display script;
  * [Changes](#changes-to-vrp-mandatory) - Mandatory modifications to vRP;
 
  #### Optionals
