@@ -32,7 +32,7 @@
   5. Enjoy!
 
 ## Changes to vRP (mandatory)
-  * Replace the ```vrp\modules\group.lua``` file with [this]() one;
+  * Replace the ```vrp\modules\group.lua``` file with [this](https://github.com/CPietro/vRP_misc_files/blob/master/group.lua) one;
 
   * Add the owner and employee groups as written below to ```vrp\cfg\groups.lua```, for every business you want to add you must do the same thing:
     <details><summary>SHOW</summary>
