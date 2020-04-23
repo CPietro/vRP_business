@@ -34,8 +34,8 @@ local lang = {
 			pin_change = "PIN change",
 			statement = "Show balance",
 			pay_user = "Pay user",
-			transfer_ap = "Transfer from personal account to business",
-			transfer_pa = "Transfer from business account to personal"
+			transfer_ap = "Transfer from personal business to personal",
+			transfer_pa = "Transfer from personal account to business"
 		},
 		business = {
 			name = "Business",
